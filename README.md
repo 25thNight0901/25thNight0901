@@ -14,7 +14,7 @@ I have a passion for web development and AI.
 - **[[UFOSightings](https://github.com/25thNight0901/UFOSightings)]** - React-Native app for sharing sightings of ufo's 
 
 ## Projects working on:
-- **[[CityShare](https://github.com/RodrigoUma04/CityShare)](#)** - Mobile app for finding to visit recommendations for cities writen in Kotlin 
+- **[[CityShare](https://github.com/RodrigoUma04/CityShare)]** - Mobile app for finding to visit recommendations for cities writen in Kotlin 
 <!--
 **25thNight0901/25thNight0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
